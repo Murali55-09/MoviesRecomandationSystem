@@ -1,0 +1,3 @@
+- [x] Remove mx-auto from v-card in Home.vue to align form left
+- [x] Remove elevation="8" from v-card to make it flat
+- [x] Add style="background: transparent;" to v-card for transparency
